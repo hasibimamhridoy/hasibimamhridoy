@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://deendarpartner.com/psilrimt/2023/06/hasib-cover-photo.jpg" align="center" style="width: 100%" />
+<img src="https://deendarpartner.com/psilrimt/2023/06/Hasib-imam-hridoy.jpg" align="center" style="width: 100%" />
 </div>  
   
 
