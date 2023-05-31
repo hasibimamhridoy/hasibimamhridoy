@@ -10,10 +10,8 @@
 
 <br/>  
   
-
 Assalamu Alaikum , I am Hasib Imam Hridoy, a dedicated and enthusiastic React front-end developer with knowledge of full-stack development. Over the past six months, I have been honing my skills in web development, specializing in React.js for front-end development. I also possess knowledge of Express.js for server-side development and MongoDB for working with databases. This allows me to tackle end-to-end development tasks and build robust, scalable web applications.  
   
-
 <br/>
 
 - 🌱 I’m currently learning **Redux,TypeScript,Node**
@@ -34,7 +32,6 @@ Assalamu Alaikum , I am Hasib Imam Hridoy, a dedicated and enthusiastic React fr
 <table><tr><td valign="top" width="33%">
 
 
-
 ### Frontend  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -46,27 +43,48 @@ Assalamu Alaikum , I am Hasib Imam Hridoy, a dedicated and enthusiastic React fr
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
 <a href="https://chakra-ui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
 
-
-
+  
 ### Backend  
 <div align="center">  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
 
-
+  
+### Tools  
+<div align="center">  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
+<a href="https://vercel.com/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/vercel.svg" alt="vercel" height="50" /></a>
+<a href="https://netlify.app/" target="_blank"><img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/netlify_logo_icon_169924.png" alt="netlify" height="50" /></a>
+<a href="https://canva.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/900px-Canva_icon_2021.svg.png?20220821125247" alt="Canva" height="50" /></a>  
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+</div>
 
 </td></tr></table>  
 
-<br/>  
+<br/>
+
+
+## Projects
+## Heroverse
+#### ✔ Heroverse full stack Website with Mern stack [https://heroverse.netlify.app/](https://heroverse.netlify.app/)
+**Heroverse Github:**
+#### front-end [https://github.com/hasibimamhridoy/)
+#### back-end [https://github.com/hasibimamhridoy/](https://github.com/hasibimamhridoy/)
+
+## Cooking Light
+#### ✔ Cooking Light full stack Website with Mern stack [https://cooking-light.netlify.app/](https://heroverse.netlify.app/)
+**Cooking Light Github:**
+#### front-end [https://github.com/hasibimamhridoy/)
+#### back-end [https://github.com/hasibimamhridoy/](https://github.com/hasibimamhridoy/)
 
 
 ## Connect with me  
