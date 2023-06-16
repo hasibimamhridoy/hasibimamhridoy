@@ -77,7 +77,7 @@ Assalamu Alaikum , I am Hasib Imam Hridoy, a dedicated and enthusiastic React fr
 
 ## Ass Sunnah Educational Full Stack Website
 #### ✔ Ass Sunnah Education Full Stack Website with Mern stack [https://ass-sunnah.netlify.app/](https://ass-sunnah.netlify.app/)
-**Heroverse Github:**
+**Ass Sunnah Github:**
 #### front-end [https://github.com/hasibimamhridoy/asssunnah-education-client](https://github.com/hasibimamhridoy/asssunnah-education-client)
 #### back-end [https://github.com/hasibimamhridoy/asssunnah-education-server](https://github.com/hasibimamhridoy/asssunnah-education-server)
 #### Admin-Email admin@gmail.com
