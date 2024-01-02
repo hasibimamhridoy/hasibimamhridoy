@@ -10,7 +10,7 @@
 
 <br/>  
   
-Assalamu Alaikum , I am Hasib Imam Hridoy, a dedicated and enthusiastic React front-end developer with knowledge of full-stack development. Over the past six months, I have been honing my skills in web development, specializing in React.js for front-end development. I also possess knowledge of Express.js for server-side development and MongoDB for working with databases. This allows me to tackle end-to-end development tasks and build robust, scalable web applications.  
+Assalamu Alaikum , I am Hasib Imam Hridoy, a dedicated and enthusiastic React front-end developer with knowledge of full-stack development. Over the past 1 year, I have been honing my skills in web development, specializing in React.js for front-end development. I also possess knowledge of Express.js for server-side development and MongoDB for working with databases. This allows me to tackle end-to-end development tasks and build robust, scalable web applications.  
   
 <br/>
 
