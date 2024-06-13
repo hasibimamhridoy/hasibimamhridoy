@@ -6,23 +6,17 @@
 ### <div align="center">I'm Hasib Imam Hridoy </div>  
   
 
-<div align="center"> A full-time front-end developer 👨‍💻</div>  
+<div align="center"> Web instructor at Programming Hero | Mern Stack Developer 👨‍💻</div>  
 
 <br/>  
   
-Assalamu Alaikum , I am Hasib Imam Hridoy, a dedicated and enthusiastic React front-end developer with knowledge of full-stack development. Over the past 1 year, I have been honing my skills in web development, specializing in React.js for front-end development. I also possess knowledge of Express.js for server-side development and MongoDB for working with databases. This allows me to tackle end-to-end development tasks and build robust, scalable web applications.  
+Assalamu Alaikum , I am Hasib Imam Hridoy, a dedicated and enthusiastic React front-end developer with knowledge of full-stack development. Over the past 18 month, I have been honing my skills in Mern Stack web development, specializing in React.js for front-end development.
   
 <br/>
 
-- 🌱 I’m currently learning **Redux,Next Js**
-
-- 👨‍💻 All of my projects are available at [https://hasibimamdev.netlify.app/](https://hasibimamdev.netlify.app/)
-
-- 💬 Ask me about **React**
+- 🌱 I’m currently learning **GraphQL,RDMS,Prisma**
 
 - 📫 How to reach me **hasibimamhridoy@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hQ9PLMaPA1ZvS4a5sZgCnQFXM6BQ90SR/view?usp=drive_link](https://drive.google.com/file/d/1hQ9PLMaPA1ZvS4a5sZgCnQFXM6BQ90SR/view?usp=drive_link)
 
 
 <br/>
@@ -75,26 +69,8 @@ Assalamu Alaikum , I am Hasib Imam Hridoy, a dedicated and enthusiastic React fr
 
 ## Projects
 
-## Ass Sunnah Educational Full Stack Website
-#### ✔ Ass Sunnah Education Full Stack Website with Mern stack [https://ass-sunnah.netlify.app/](https://ass-sunnah.netlify.app/)
-**Ass Sunnah Github:**
-#### front-end [https://github.com/hasibimamhridoy/asssunnah-education-client](https://github.com/hasibimamhridoy/asssunnah-education-client)
-#### back-end [https://github.com/hasibimamhridoy/asssunnah-education-server](https://github.com/hasibimamhridoy/asssunnah-education-server)
-#### Admin-Email admin@gmail.com
-#### Admin-Pass aaaaaaA1! 
-
-## Heroverse
-#### ✔ Heroverse full stack Website with Mern stack [https://heroverse.netlify.app/](https://heroverse.netlify.app/)
-**Heroverse Github:**
-#### front-end [https://github.com/hasibimamhridoy/heroverse-client](https://github.com/hasibimamhridoy/heroverse-client)
-#### back-end [https://github.com/hasibimamhridoy/heroverse-server](https://github.com/hasibimamhridoy/heroverse-server)
-
-## Cooking Light
-#### ✔ Cooking Light full stack Website with Mern stack [https://cooking-light.netlify.app/](https://heroverse.netlify.app/)
-**Cooking Light Github:**
-#### front-end [https://github.com/hasibimamhridoy/cooking-light](https://github.com/hasibimamhridoy/cooking-light)
-#### back-end [https://github.com/hasibimamhridoy/cooking-light-server](https://github.com/hasibimamhridoy/cooking-light-server)
-
+## DeendarPartner Mern Stack Website.
+#### ✔ DeendarPartner.com is an popular Islamic Matrimony platform in Bangladesh . [https://deendarpartner.com/](https://deendarpartner.com/)
 
 ## Connect with me  
 <div align="center">
