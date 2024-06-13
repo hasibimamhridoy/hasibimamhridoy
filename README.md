@@ -45,7 +45,7 @@ Assalamu Alaikum , I am Hasib Imam Hridoy, a dedicated and enthusiastic React fr
 </div>
 
 ### Backend  
-<div width="50%" style={display : "flex" , gap: "20px"}>
+<div width="50%" style={display : "flex" , gap: "20px"} align="center">
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg" alt="MongoDB" height="50" /></a>
 <a href="https://mongoosejs.com/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/mongoose.svg" alt="Mongoose" height="50" /></a>  
 <a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYxUbHd2RUDc1c2E-IVIZwn6qOVOU6lfvwuw&s" alt="Prisma" height="50" /></a>  
