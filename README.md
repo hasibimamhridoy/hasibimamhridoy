@@ -44,7 +44,7 @@ Assalamu Alaikum , I am Hasib Imam Hridoy, a dedicated and enthusiastic React fr
 
 </td>
 
-<td valign="top" width="50%">
+<td valign="top" width="100%">
 
   
 ### Backend  
