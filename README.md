@@ -44,11 +44,8 @@ Assalamu Alaikum , I am Hasib Imam Hridoy, a dedicated and enthusiastic React fr
 
 </div>
 
-<div width="50%">
-
 ### Backend  
-<div style={display : "flex"} >  
-
+<div width="50%" style={display : "flex"}>
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
 <a href="https://mongoosejs.com/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/mongoose.svg" alt="Mongoose" height="50" /></a>  
 <a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYxUbHd2RUDc1c2E-IVIZwn6qOVOU6lfvwuw&s" alt="Prisma" height="50" /></a>  
@@ -57,7 +54,6 @@ Assalamu Alaikum , I am Hasib Imam Hridoy, a dedicated and enthusiastic React fr
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROqZ5pSJHu7yXCl5n1O2HS5oCdoerZtHly8g&s" alt="Node.js" height="50" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://w7.pngwing.com/pngs/212/722/png-transparent-web-development-express-js-javascript-software-framework-laravel-world-wide-web-purple-blue-text.png" alt="Express.js" height="50" /></a>  
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-</div>
 
 </div>
 
